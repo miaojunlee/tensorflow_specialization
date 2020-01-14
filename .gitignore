@@ -1,0 +1,10 @@
+*.jpg
+*.png
+*.jpeg
+*.JPEG
+*.PNG
+*.JPG
+lucas_dq.h5
+glove.6B.100d.txt
+inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+rps.h5
